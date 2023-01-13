@@ -4,6 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/57393100/212361336-a3350cbf-8860-4948-a4de-8d8f376fd629.png)
 
+(Figma template reference: https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1)
+
 # Requirements
 - npm
 - React
